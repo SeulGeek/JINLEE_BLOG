@@ -140,7 +140,7 @@
 											<td>대표이미지</td>
 											<td>
 												<input type="file" onchange="previewFile()" accept="image/gif, image/jpeg, image/png" id="postImage" name="postImage" value="">
-												<!-- 프로필 사진 미리보기 -->
+												<!-- 사진 미리보기 -->
 												<br> <br> <img id="preview" src="" onerror="this.style.display='none'" style="width: 100px; height: 100px;" />
 											</td>
 										</tr>
