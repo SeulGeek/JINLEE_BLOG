@@ -1,6 +1,8 @@
 # JINLEE_BLOG
 프로그래밍 관련 글과 개인 포트폴리오, 일상 글을 올려두기 위한 개인 기술 블로그입니다. 협업에 필요한 요구사항정의서, 화면정의서 등 총 8개의 문서 작업을 한 후, 이를 토대로 만들어보았습니다. 참고로, 문서는 개인 기술 블로그에 올려두었습니다. 
 
+<img src="https://user-images.githubusercontent.com/49344118/61848338-bee78380-aee8-11e9-803b-8442866cdf67.png" height="400">
+
 ## 사용 기술
 * 언어 : JSP, JAVA
 * 운영체제 : Linux(Ubuntu)
