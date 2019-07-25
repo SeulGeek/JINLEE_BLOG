@@ -183,7 +183,7 @@
   </script>
 
 
-	<!-- 선택된 카테고리의 name 세팅하기 -->
+	<!-- 선택된 게시판의 name 세팅하기 -->
 	<script type="text/javascript">
 		$("#boardId").on("change keyup paste", function() {
 			var target = document.getElementById("boardId");
