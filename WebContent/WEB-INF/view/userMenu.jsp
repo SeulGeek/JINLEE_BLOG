@@ -25,7 +25,7 @@ ${ctxPath = pageContext.request.contextPath ; ''}
 
 	<!-- 관리자 프로필 사진 -->
 	<div style="text-align: center;">
-		<div style="width: 180px; height: 180px; margin-left: auto; margin-right: auto;">
+		<div style="max-width: 180px; width: 100%; height: 100%; margin-left: auto; margin-right: auto;">
 			<c:if test="${!empty admin.adminProfileUrl}">
 				<img id="loadImg" src="http://localhost:8080/BLOG/upload/${admin.adminProfileUrl}" class="photo-circle">
 			</c:if>
