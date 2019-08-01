@@ -24,7 +24,7 @@
 * 검색어를 통한 게시글 제목 또는 본문 검색
 * 태그 검색
 
-## 문서
+## 블로그 설계 문서
 ### 1. [요구사항정의서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/1_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.md)
 다른 기술 블로그를 참고하여 내 개인 블로그에 필요한 기능들을 정의한 문서
 
@@ -35,19 +35,19 @@
 개발 시에 쓰이는 단어들을 정의한 문서
 
 ### 4. [엔티티정의서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/4_%EC%97%94%ED%8B%B0%ED%8B%B0%EC%A0%95%EC%9D%98%EC%84%9C.md)
-: DB에서 사용되는 개념(엔티티, 구별이 가능한 개체)설명한 문서
+DB에서 사용되는 개념(엔티티, 구별이 가능한 개체)설명한 문서
 
 ### 5. [테이블정의서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/5_%ED%85%8C%EC%9D%B4%EB%B8%94%EC%A0%95%EC%9D%98%EC%84%9C.md)
-: DB테이블 간 관계와 각 테이블의 속성을 정의한 문서
+DB테이블 간 관계와 각 테이블의 속성을 정의한 문서
 
 ### 6. [프로세스정의서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/6_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A0%95%EC%9D%98%EC%84%9C.md)
-: 프로세스가 있는 기능들을 정의한 문서
+프로세스가 있는 기능들을 정의한 문서
 
 ### 7. [프로세스설계서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/7_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%84%A4%EA%B3%84%EC%84%9C.md)
-: 각 기능들의 프로세스를 순서도로 정리한 문서
+각 기능들의 프로세스를 순서도로 정리한 문서
 
 ### 8. [프로그램목록](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/8_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EB%AA%A9%EB%A1%9D.md)
-: 블로그를 구성하는 모듈 정리, 각 모듈의 상세 정보를 적은 문서
+블로그를 구성하는 모듈 정리, 각 모듈의 상세 정보를 적은 문서
 
 ## MVC 패턴
 ### Model
