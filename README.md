@@ -1,5 +1,5 @@
 # JINLEE_BLOG
-프로그래밍 관련 글과 개인 포트폴리오, 일상 글을 올려두기 위해 '최범균의 JSP 2.3 웹 프로그래밍'을 예시를 보며 만들어본 개인 블로그입니다. 협업에 필요한 요구사항정의서, 화면정의서 등 총 8개의 문서 작업 후, 이를 토대로 만들었습니다. 참고로, 문서는 개인 기술 블로그(http://13.125.248.64) 에서 볼 수 있습니다. 
+프로그래밍 관련 글과 개인 포트폴리오, 일상 글을 올려두기 위해 '최범균의 JSP 2.3 웹 프로그래밍'책 예시를 보며 만들어본 개인 블로그입니다. 협업에 필요한 요구사항정의서, 화면정의서 등 총 8개의 문서 작업 후, 이를 토대로 만들었습니다. 참고로, 문서는 개인 기술 블로그(http://13.125.248.64) 에서 볼 수 있습니다. 
 
 ## 사용 기술
 * 언어 : JSP, JAVA
@@ -24,7 +24,32 @@
 * 검색어를 통한 게시글 제목 또는 본문 검색
 * 태그 검색
 
-### MVC 패턴
+## 문서
+### 1. [요구사항정의서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/1_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.md)
+다른 기술 블로그를 참고하여 내 개인 블로그에 필요한 기능들을 정의한 문서
+
+### 2. [화면정의서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/2_%ED%99%94%EB%A9%B4%EC%A0%95%EC%9D%98%EC%84%9C.md) 
+블로그 화면 흐름도 & 블로그에서 뷰를 클릭했을 때 볼 수 있는 화면을 정의한 문서
+
+### 3. [사전정의서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/3_%EC%82%AC%EC%A0%84%EC%A0%95%EC%9D%98%EC%84%9C.md)
+개발 시에 쓰이는 단어들을 정의한 문서
+
+### 4. [엔티티정의서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/4_%EC%97%94%ED%8B%B0%ED%8B%B0%EC%A0%95%EC%9D%98%EC%84%9C.md)
+: DB에서 사용되는 개념(엔티티, 구별이 가능한 개체)설명한 문서
+
+### 5. [테이블정의서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/5_%ED%85%8C%EC%9D%B4%EB%B8%94%EC%A0%95%EC%9D%98%EC%84%9C.md)
+: DB테이블 간 관계와 각 테이블의 속성을 정의한 문서
+
+### 6. [프로세스정의서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/6_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A0%95%EC%9D%98%EC%84%9C.md)
+: 프로세스가 있는 기능들을 정의한 문서
+
+### 7. [프로세스설계서](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/7_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%84%A4%EA%B3%84%EC%84%9C.md)
+: 각 기능들의 프로세스를 순서도로 정리한 문서
+
+### 8. [프로그램목록](https://github.com/jinnlee/JINLEE_BLOG/blob/master/Document/8_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EB%AA%A9%EB%A1%9D.md)
+: 블로그를 구성하는 모듈 정리, 각 모듈의 상세 정보를 적은 문서
+
+## MVC 패턴
 ### Model
 * admin : DB에서 관리자 정보를 수정하거나 가져올 시 사용
 <img src="https://user-images.githubusercontent.com/49344118/62322716-a2e37380-b4e0-11e9-98e9-fca451ebb446.png" width="150">
